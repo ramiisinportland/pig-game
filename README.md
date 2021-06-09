@@ -16,7 +16,7 @@
 
 ![pig-game-readme](https://user-images.githubusercontent.com/59575780/121443404-4a822600-c942-11eb-90aa-ae79bf0805d4.png)
 
-I created this game to enforce my JavaScript knowledge. This is game is about rolling dice between two players. The highest score for the game is 100. The winner should be able to reach the 100 first.<br>Three dynamic buttons are featuring the game.
+I created this game to enforce my JavaScript knowledge. This game is about rolling dice between two players. The highest score for the game is 100. The winner should be able to reach the 100 first.<br>Three dynamic buttons are featuring the game.
 * NEW GAME 🔄 <br>_To reset the game and start a new game._
 
 * ROLL DICE 🎲  <br>_To see which number the dice would generate in each click of player 1 or player 2, so the number of each rolling dice will be added to get to a 100 in order to win the game 🎉._
