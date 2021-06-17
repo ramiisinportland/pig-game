@@ -12,7 +12,7 @@
 * _JavaScript_
 * _VSCode_
 
-## Description
+## Description 📖
 
 ![pig-game-readme](https://user-images.githubusercontent.com/59575780/121443404-4a822600-c942-11eb-90aa-ae79bf0805d4.png)
 
@@ -34,14 +34,14 @@ I created this game to enforce my JavaScript knowledge. This game is about rolli
 
 
 
-## Known Bugs
+## Known Bugs 🐞
 
 * Nothig yet
 
 
-## License
+## License ⚖️
 
-MIT License
+MIT License 🏛
 
 Copyright (c) 2021 Rami Ahmed
 
@@ -62,6 +62,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Contact Information
+## Contact Information ☎️
 
 _ramiahmedportland@gmail.com_
